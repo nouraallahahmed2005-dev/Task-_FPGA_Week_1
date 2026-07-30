@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Decoder_2x4_
+vDecoder
+Z0 !s110 1785466313
+!i10b 1
+!s100 6oG@T3n1IYPL`3kVKH0R82
+IV^Y>kOl8Q63JflDMFIB>I2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/Decoder
+w1785466230
+8D:/FPGA/Decoder/decoder.v
+FD:/FPGA/Decoder/decoder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1785466313.000000
+!s107 D:/FPGA/Decoder/decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Decoder/decoder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@decoder
+vDecoder_2x4_
+R0
+!i10b 1
+!s100 U0Be[=W5l]QonJ`aNnAXH1
+I2aUAB<KU=MNjT4z?`]70J3
+R1
+R2
+w1785464960
+8D:/FPGA/Decoder/Decoder_2x4_.v
+FD:/FPGA/Decoder/Decoder_2x4_.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/Decoder/Decoder_2x4_.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Decoder/Decoder_2x4_.v|
+!i113 1
+R5
+R6
+n@decoder_2x4_

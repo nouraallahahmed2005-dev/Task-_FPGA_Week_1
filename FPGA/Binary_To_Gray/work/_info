@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/full_adder
+vGray_to_Binary
+!s110 1785392827
+!i10b 1
+!s100 OB?hez8>W2T1bfRY?cgDM1
+I7LUicPjg>TC=;llAH>E2k2
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/FPGA/Binary_To_Gray
+w1785392740
+8D:/FPGA/Binary_To_Gray/new 2.v
+FD:/FPGA/Binary_To_Gray/new 2.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1785392826.000000
+!s107 D:/FPGA/Binary_To_Gray/new 2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Binary_To_Gray/new 2.v|
+!i113 1
+o-work work
+tCvgOpt 0
+n@gray_to_@binary

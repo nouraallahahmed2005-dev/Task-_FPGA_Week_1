@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/mux4_struct
+vmux2x1
+Z0 !s110 1785390737
+!i10b 1
+!s100 NM^=?fHSY:E9:45?XgBbd1
+I>Ui4MVJEB2>2RIFl]IWV11
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/MUX4_LEVELS
+w1785376899
+8D:/FPGA/MUX4_LEVELS/mux2x1.v
+FD:/FPGA/MUX4_LEVELS/mux2x1.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1785390737.000000
+!s107 D:/FPGA/MUX4_LEVELS/mux2x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/MUX4_LEVELS/mux2x1.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmux4_beh
+R0
+!i10b 1
+!s100 fY2ebQFfI9Vh>4`^n0Pd82
+IbTn@C62<Y]OlJkHaf2<<]0
+R1
+R2
+w1785386861
+8D:/FPGA/MUX4_LEVELS/mux_beh_.v
+FD:/FPGA/MUX4_LEVELS/mux_beh_.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/MUX4_LEVELS/mux_beh_.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/MUX4_LEVELS/mux_beh_.v|
+!i113 1
+R5
+R6
+vmux4_GL
+R0
+!i10b 1
+!s100 9<AE6Rk_mIlYlQI1>2=Mi2
+ImmFlTKOP4c6TP>HH=fe_R2
+R1
+R2
+w1785386976
+8D:/FPGA/MUX4_LEVELS/mux_GL_.v
+FD:/FPGA/MUX4_LEVELS/mux_GL_.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/MUX4_LEVELS/mux_GL_.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/MUX4_LEVELS/mux_GL_.v|
+!i113 1
+R5
+R6
+nmux4_@g@l
+vmux4_struct
+R0
+!i10b 1
+!s100 3AKReUF[::_V@ACV=<g7M1
+I>c:Rim6:Hk]Yhi90beg^;3
+R1
+R2
+w1785376974
+8D:/FPGA/MUX4_LEVELS/mux4_struct.v
+FD:/FPGA/MUX4_LEVELS/mux4_struct.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/MUX4_LEVELS/mux4_struct.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/MUX4_LEVELS/mux4_struct.v|
+!i113 1
+R5
+R6

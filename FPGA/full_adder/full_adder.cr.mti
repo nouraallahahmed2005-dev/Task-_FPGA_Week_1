@@ -1,0 +1,36 @@
+D:/FPGA/full_adder/HF_.v {1 {vlog -work work -stats=none D:/FPGA/full_adder/HF_.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HA
+
+Top level modules:
+	HA
+
+} {} {}} D:/FPGA/full_adder/FULL_adder_struct.v {1 {vlog -work work -stats=none D:/FPGA/full_adder/FULL_adder_struct.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} D:/FPGA/full_adder/Full_adder_data_flow.v {1 {vlog -work work -stats=none D:/FPGA/full_adder/Full_adder_data_flow.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} D:/FPGA/full_adder/full_adder_GL.v {1 {vlog -work work -stats=none D:/FPGA/full_adder/full_adder_GL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} D:/FPGA/full_adder/Full_adder_beh.v {1 {vlog -work work -stats=none D:/FPGA/full_adder/Full_adder_beh.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}}

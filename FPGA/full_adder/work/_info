@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/MUX4_LEVELS
+vFA
+Z0 !s110 1785392109
+!i10b 1
+!s100 TPKo593A;fWF3^@1:h1i03
+Ih=5l6R8lUPz:8XEP]FN2R3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/full_adder
+w1785380655
+8D:/FPGA/full_adder/FULL_adder_struct.v
+FD:/FPGA/full_adder/FULL_adder_struct.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1785392109.000000
+!s107 D:/FPGA/full_adder/FULL_adder_struct.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/full_adder/FULL_adder_struct.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@f@a
+vHA
+R0
+!i10b 1
+!s100 geElHTf>BnA5=[2DidRl33
+IjhGKWXNnAKAAGU?VD?;9Z3
+R1
+R2
+w1785378109
+8D:/FPGA/full_adder/HF_.v
+FD:/FPGA/full_adder/HF_.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/full_adder/HF_.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/full_adder/HF_.v|
+!i113 1
+R5
+R6
+n@h@a
