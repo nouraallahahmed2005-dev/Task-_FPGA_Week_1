@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Decoder
+vBinary_To_7seg
+Z0 !s110 1785564954
+!i10b 1
+!s100 C2mLIiPNa4;cXoNnWWdYi0
+I;b5M0ZMMl3WzhAcd[N<_90
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/Gray_To_bin_To_7seg
+w1785564627
+8D:/FPGA/Gray_To_bin_To_7seg/Binary_To_7seg.v
+FD:/FPGA/Gray_To_bin_To_7seg/Binary_To_7seg.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1785564954.000000
+!s107 D:/FPGA/Gray_To_bin_To_7seg/Binary_To_7seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Gray_To_bin_To_7seg/Binary_To_7seg.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@binary_@to_7seg
+vGray_To_Binary
+R0
+!i10b 1
+!s100 VGMehg0mKoccPo04DB`Ra3
+ImOYa`[PU^H6iAf3dogf8g1
+R1
+R2
+w1785563727
+8D:/FPGA/Gray_To_bin_To_7seg/Gray_To_Binary.v
+FD:/FPGA/Gray_To_bin_To_7seg/Gray_To_Binary.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/Gray_To_bin_To_7seg/Gray_To_Binary.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Gray_To_bin_To_7seg/Gray_To_Binary.v|
+!i113 1
+R5
+R6
+n@gray_@to_@binary
+vGray_To_Binary_Tbn
+R0
+!i10b 1
+!s100 WZU;D5hczf56=WdJS0l4L0
+IbciNzMfk7ghMfTVKfAXYX2
+R1
+R2
+w1785564774
+8D:/FPGA/Gray_To_bin_To_7seg/module Gray_To_Binary_To_7Seg_Tbn.v
+FD:/FPGA/Gray_To_bin_To_7seg/module Gray_To_Binary_To_7Seg_Tbn.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/Gray_To_bin_To_7seg/module Gray_To_Binary_To_7Seg_Tbn.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Gray_To_bin_To_7seg/module Gray_To_Binary_To_7Seg_Tbn.v|
+!i113 1
+R5
+R6
+n@gray_@to_@binary_@tbn
