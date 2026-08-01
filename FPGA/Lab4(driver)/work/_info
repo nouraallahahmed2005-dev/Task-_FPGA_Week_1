@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Gray_To_bin_To_7seg
+vdriver
+!s110 1785636354
+!i10b 1
+!s100 TAV?cN5Vdmzh97z>6^<;V3
+IA^9hFI4E;4dM@9k<0kOkH3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/FPGA/Lab4(driver)
+w1785636095
+8D:/FPGA/Lab4(driver)/driver.v
+FD:/FPGA/Lab4(driver)/driver.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1785636354.000000
+!s107 D:/FPGA/Lab4(driver)/driver.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Lab4(driver)/driver.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vdriver_test
+!s110 1785636442
+!i10b 1
+!s100 <GNYm?JAHfJafnBG[3:Bo1
+Id6VS[Igca<Q9Cmc?ZYJcH0
+R0
+R1
+w1785636424
+8D:/FPGA/Lab4(driver)/driver_test.v
+FD:/FPGA/Lab4(driver)/driver_test.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1785636441.000000
+!s107 D:/FPGA/Lab4(driver)/driver_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Lab4(driver)/driver_test.v|
+!i113 1
+R3
+R4
