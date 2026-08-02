@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Lab 3
+vflip_flop
+!s110 1785709306
+!i10b 1
+!s100 :o2B^?zH>?KNSgQC9<;lU3
+IX;;?@iNTYzLB6mQ^zFz2a2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/FPGA/flip_flop
+w1785708338
+8D:/FPGA/flip_flop/flip_flop.v
+FD:/FPGA/flip_flop/flip_flop.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1785709306.000000
+!s107 D:/FPGA/flip_flop/flip_flop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/flip_flop/flip_flop.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vflip_flop_tb
+!s110 1785709630
+!i10b 1
+!s100 <Ba64ejaaQYb3^2]SeFJS2
+IN@Cl>?IXfo:j0XfHRU>=<0
+R0
+R1
+w1785709619
+8D:/FPGA/flip_flop/flip_flop_tb.v
+FD:/FPGA/flip_flop/flip_flop_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1785709630.000000
+!s107 D:/FPGA/flip_flop/flip_flop_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/flip_flop/flip_flop_tb.v|
+!i113 1
+R3
+R4
