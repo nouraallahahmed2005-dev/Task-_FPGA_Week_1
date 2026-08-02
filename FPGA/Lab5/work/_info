@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/SR_SIPO
+valu
+Z0 !s110 1785738028
+!i10b 1
+!s100 2LPzec8R2G2_^QNn8L3nI3
+IOA8F3Bg;U:mEaCFm9JDfD1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/Lab5
+w1785737840
+8D:/FPGA/Lab5/alu.v
+FD:/FPGA/Lab5/alu.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1785738028.000000
+!s107 D:/FPGA/Lab5/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Lab5/alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+valu_test
+R0
+!i10b 1
+!s100 hZz]CVe[SS0=ODP9C0ig?1
+I41:BY2c7VIYPSDzg:Lbf41
+R1
+R2
+w1785738009
+8D:/FPGA/Lab5/alu_test.v
+FD:/FPGA/Lab5/alu_test.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/Lab5/alu_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Lab5/alu_test.v|
+!i113 1
+R5
+R6
