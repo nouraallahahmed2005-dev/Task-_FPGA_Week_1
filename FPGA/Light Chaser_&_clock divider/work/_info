@@ -1,0 +1,160 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vclock_divider
+Z0 !s110 1785988383
+!i10b 1
+!s100 Zo[]KL07i>5C]Z27^oSRB1
+I22aP`M8MPT`_Jc7]c^HW=0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/Light Chaser
+w1785981427
+8D:/FPGA/Light Chaser/clock_divider.v
+FD:/FPGA/Light Chaser/clock_divider.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1785988383.000000
+!s107 D:/FPGA/Light Chaser/clock_divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Light Chaser/clock_divider.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vLight_Chaser
+!s110 1785989421
+!i10b 1
+!s100 LKzEoG_bXU3Q3^gKcf0LP3
+I?D;DK]N:JQQD2LJQZ0zHG2
+R1
+R2
+w1785989411
+8D:/FPGA/Light Chaser/Light_Chaser.v
+FD:/FPGA/Light Chaser/Light_Chaser.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1785989420.000000
+!s107 D:/FPGA/Light Chaser/Light_Chaser.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Light Chaser/Light_Chaser.v|
+!i113 1
+R5
+R6
+n@light_@chaser
+vLight_Chaser_tb
+!s110 1785988865
+!i10b 1
+!s100 EVQB76CEa6>e;77DBSU?e3
+I?QNc7nH]<2]PDHLJkM_NK0
+R1
+R2
+w1785988853
+Z7 8D:/FPGA/Light Chaser/top_module_tb.v
+Z8 FD:/FPGA/Light Chaser/top_module_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1785988865.000000
+Z9 !s107 D:/FPGA/Light Chaser/top_module_tb.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Light Chaser/top_module_tb.v|
+!i113 1
+R5
+R6
+n@light_@chaser_tb
+vLight_Chaser_tbn
+!s110 1785913312
+!i10b 1
+!s100 TFHfTP:N4kUMMLA7?::i20
+I7LKzgj`4eKUlU98>?:cI`0
+R1
+R2
+w1785913294
+8D:/FPGA/Light Chaser/Light_Chaser_tbn.v
+FD:/FPGA/Light Chaser/Light_Chaser_tbn.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1785913311.000000
+!s107 D:/FPGA/Light Chaser/Light_Chaser_tbn.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Light Chaser/Light_Chaser_tbn.v|
+!i113 1
+R5
+R6
+n@light_@chaser_tbn
+vtb_light_chaser
+!s110 1785981309
+!i10b 1
+!s100 K]G6NE0jDRLPGQ9Dl?lDT2
+IXWPSKFbMGCKj@1I4d1nzl2
+R1
+R2
+w1785981299
+R7
+R8
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1785981309.000000
+R9
+R10
+!i113 1
+R5
+R6
+vtop_module
+R0
+!i10b 1
+!s100 niNakH6WXiAhCJT[GVfJ<2
+Ii[I[>?eBTJ;=?@j?_?m2b1
+R1
+R2
+w1785980722
+8D:/FPGA/Light Chaser/top_module.v
+FD:/FPGA/Light Chaser/top_module.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/Light Chaser/top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Light Chaser/top_module.v|
+!i113 1
+R5
+R6
+vtop_module_tb
+!s110 1785981005
+!i10b 1
+!s100 =I^K7LPVIn]9eV<R1`=^@0
+Iz<z>C]X`ISeGf18L[ZAhb2
+R1
+R2
+w1785980860
+R7
+R8
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1785981005.000000
+R9
+R10
+!i113 1
+R5
+R6
