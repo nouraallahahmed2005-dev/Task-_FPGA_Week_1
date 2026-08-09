@@ -1,0 +1,15 @@
+D:/FPGA/day_11/Rising_edge/Rising_edge_moore.v {1 {vlog -work work -stats=none D:/FPGA/day_11/Rising_edge/Rising_edge_moore.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Rising_edge_moore
+
+Top level modules:
+	Rising_edge_moore
+
+} {} {}} D:/FPGA/day_11/Rising_edge/Rising_edge_moore_tb.v {1 {vlog -work work -stats=none D:/FPGA/day_11/Rising_edge/Rising_edge_moore_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Rising_edge_moore_tb
+
+Top level modules:
+	Rising_edge_moore_tb
+
+} {} {}}

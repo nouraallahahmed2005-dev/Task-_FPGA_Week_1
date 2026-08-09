@@ -1,0 +1,44 @@
+module Rising_edge_moore_tb;
+
+    reg clk;
+    reg level;
+    reg restn;
+
+    wire tick;
+
+Rising_edge_moore rgm1 (.*);
+
+    always #5 clk = ~clk;
+
+    initial
+    begin
+     
+        clk   = 1'b0;
+        level = 1'b0;
+        restn = 1'b0;
+
+        #10;
+        restn = 1'b1;
+
+        #10;
+
+        level = 1'b1;
+
+        #20;
+
+        level = 1'b0;
+
+        #20;
+
+        level = 1'b1;
+
+        #30;
+
+        level = 1'b0;
+
+        #20;
+
+        $stop;
+    end
+
+endmodule

@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/day_11/Rising_edge
+vRising_edge_mealy
+Z0 !s110 1786331080
+!i10b 1
+!s100 binQMCknfDnO<UlL:YVFz2
+IB<LIiO13^bYii<LEV>PnL1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/day_11/Rising_edge_mealy
+w1786330896
+8D:/FPGA/day_11/Rising_edge_mealy/Rising_edge_mealy.v
+FD:/FPGA/day_11/Rising_edge_mealy/Rising_edge_mealy.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1786331080.000000
+!s107 D:/FPGA/day_11/Rising_edge_mealy/Rising_edge_mealy.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/day_11/Rising_edge_mealy/Rising_edge_mealy.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@rising_edge_mealy
+vRising_edge_mealy_tb
+R0
+!i10b 1
+!s100 =a^l>C4hK>UY?3dijLHHR2
+Ik>kLIUJ:`hhVd_I_90e?52
+R1
+R2
+w1786331007
+8D:/FPGA/day_11/Rising_edge_mealy/Rising_edge_mealy_tb.v
+FD:/FPGA/day_11/Rising_edge_mealy/Rising_edge_mealy_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/day_11/Rising_edge_mealy/Rising_edge_mealy_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/day_11/Rising_edge_mealy/Rising_edge_mealy_tb.v|
+!i113 1
+R5
+R6
+n@rising_edge_mealy_tb
