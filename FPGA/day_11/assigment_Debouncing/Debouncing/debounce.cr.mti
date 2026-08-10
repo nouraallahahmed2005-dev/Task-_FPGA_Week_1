@@ -1,0 +1,8 @@
+D:/FPGA/Debouncing/debounce_tb.v {1 {vlog -work work -stats=none D:/FPGA/Debouncing/debounce_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module debounce_tb
+
+Top level modules:
+	debounce_tb
+
+} {} {}}
