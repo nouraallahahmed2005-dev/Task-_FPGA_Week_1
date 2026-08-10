@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/overlapping&nonoverlapping/overlapping/overlapping_meely
+vnonoverlapping_mealy
+Z0 !s110 1786349773
+!i10b 1
+!s100 @GAgE9TgmIEZ4CEb61^6G0
+I5A_CSGJ?cg^7Kd<V`Ij3_1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/overlapping&nonoverlapping/nonoverlapping/nonoverlapping_mealy
+w1786349002
+8D:/FPGA/overlapping&nonoverlapping/nonoverlapping/nonoverlapping_mealy/nonoverlapping_mealy.v
+FD:/FPGA/overlapping&nonoverlapping/nonoverlapping/nonoverlapping_mealy/nonoverlapping_mealy.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1786349773.000000
+!s107 D:/FPGA/overlapping&nonoverlapping/nonoverlapping/nonoverlapping_mealy/nonoverlapping_mealy.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/overlapping&nonoverlapping/nonoverlapping/nonoverlapping_mealy/nonoverlapping_mealy.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vnonoverlapping_mealy_tbn
+R0
+!i10b 1
+!s100 Y4HG5;ma2DRg5cK28JgUS0
+IIaE7aP:?[4=6:80SN;LfG1
+R1
+R2
+w1786349728
+8D:/FPGA/overlapping&nonoverlapping/nonoverlapping/nonoverlapping_mealy/nonoverlapping_mealy_tbn.v
+FD:/FPGA/overlapping&nonoverlapping/nonoverlapping/nonoverlapping_mealy/nonoverlapping_mealy_tbn.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/overlapping&nonoverlapping/nonoverlapping/nonoverlapping_mealy/nonoverlapping_mealy_tbn.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/overlapping&nonoverlapping/nonoverlapping/nonoverlapping_mealy/nonoverlapping_mealy_tbn.v|
+!i113 1
+R5
+R6
