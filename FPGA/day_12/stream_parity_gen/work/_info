@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Debouncing
+vstream_parity_gen
+Z0 !s110 1786420369
+!i10b 1
+!s100 [E@fgPoNQ>bC`kl]8?X^A0
+IN4NVjJnIW_z:LFh1O84Xc0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/day_12/stream_parity_gen
+w1786420351
+8D:/FPGA/day_12/stream_parity_gen/stream_parity_gen.v
+FD:/FPGA/day_12/stream_parity_gen/stream_parity_gen.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1786420369.000000
+!s107 D:/FPGA/day_12/stream_parity_gen/stream_parity_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/day_12/stream_parity_gen/stream_parity_gen.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vstream_parity_gen_tbn
+R0
+!i10b 1
+!s100 `n^D@;0eWoJz]^l5G5da;0
+IJc6GWgifaUk?>?MG9FhO23
+R1
+R2
+w1786420342
+8D:/FPGA/day_12/stream_parity_gen/stream_parity_gen_tbn.v
+FD:/FPGA/day_12/stream_parity_gen/stream_parity_gen_tbn.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/day_12/stream_parity_gen/stream_parity_gen_tbn.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/day_12/stream_parity_gen/stream_parity_gen_tbn.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/top_module__
+vpriority_encoder
+Z0 !s110 1786413691
+!i10b 1
+!s100 11HAf=I6YoUh;hXoKKkjj2
+I;o[X<aWj1`NNC>5=TeCoQ3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/day_12/priority_encoder
+w1786412513
+8D:/FPGA/day_12/priority_encoder/priority_encoder.v
+FD:/FPGA/day_12/priority_encoder/priority_encoder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1786413691.000000
+!s107 D:/FPGA/day_12/priority_encoder/priority_encoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/day_12/priority_encoder/priority_encoder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vpriority_encoder_tb
+R0
+!i10b 1
+!s100 jM]g`NWAmM5?@lGn_Ei0N3
+IjL83gXeGhm3J0IbP84?EF3
+R1
+R2
+w1786412819
+8D:/FPGA/day_12/priority_encoder/priority_encoder_tb.v
+FD:/FPGA/day_12/priority_encoder/priority_encoder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/day_12/priority_encoder/priority_encoder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/day_12/priority_encoder/priority_encoder_tb.v|
+!i113 1
+R5
+R6
