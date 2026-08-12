@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/f22_p
+vstream_parity_gen
+Z0 !s110 1786589655
+!i10b 1
+!s100 [E@fgPoNQ>bC`kl]8?X^A0
+IV?XYMWXXFdT:6>@3jhXlD3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/day_13/stream_parity_gen
+w1786420351
+8D:/FPGA/day_13/stream_parity_gen/stream_parity_gen_.v
+FD:/FPGA/day_13/stream_parity_gen/stream_parity_gen_.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1786589654.000000
+!s107 D:/FPGA/day_13/stream_parity_gen/stream_parity_gen_.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/day_13/stream_parity_gen/stream_parity_gen_.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vstream_parity_gen_tbn
+R0
+!i10b 1
+!s100 c`C@0fIil7>>^67R_8MWP0
+IQlF@KWUkA;nV7[_GHkhVF3
+R1
+R2
+w1786589566
+8D:/FPGA/day_13/stream_parity_gen/stream_parity_gen_tbn.v
+FD:/FPGA/day_13/stream_parity_gen/stream_parity_gen_tbn.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1786589655.000000
+!s107 D:/FPGA/day_13/stream_parity_gen/stream_parity_gen_tbn.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/day_13/stream_parity_gen/stream_parity_gen_tbn.v|
+!i113 1
+R4
+R5
