@@ -1,46 +1,35 @@
- NTI-FPGA- Noura Allah Ahmed
+ NTI Digital IC by using FPGA - Noura Allah Ahmed
 
-Welcome to my NTI-FPGA repository.
+Welcome to my -NTI Digital IC- repository.
 
-This repository contains the tasks, assignments, Verilog HDL designs, and testbenches completed during my FPGA Training Program.
+This repository contains the projects, labs, assignments, and notes completed during the **National Telecommunication Institute (NTI) Digital IC Training Program
 
  About
 
-The purpose of this repository is to document my learning journey in **FPGA and RTL Design** and showcase the practical work completed during the training.
+The purpose of this repository is to document my learning journey in **Digital Integrated Circuit (Digital IC) Design** and showcase the practical work completed throughout the training.
 
  Repository Contents
 
-* FPGA Tasks
+* Digital IC Labs
 * Assignments
 * Verilog HDL Designs
-* Testbenches
-* RTL Designs
 * Simulation Files
+* RTL Design
 * Project Documentation
 
- Technologies & Tools
+Technologies & Tools
 
 * Verilog HDL
 * ModelSim
-* Xilinx Vivado
+* Vivado
 * Quartus Prime
-
- Topics Covered
-
-* Digital Logic Design
-* Verilog HDL
-* RTL Design
-* Finite State Machines (FSM)
-* Testbench Development
-* FPGA Design
-* Simulation
 
  Author
 
 Noura Allah Ahmed Hussein
 
-FPGA Trainee
+Digital IC Trainee at the National Telecommunication Institute (NTI).
 
-Acknowledgment
+ Acknowledgment
 
-Special thanks to the **National Telecommunication Institute (NTI)** and all instructors for their guidance and support throughout the training program.
+Special thanks to the National Telecommunication Institute (NTI) and all instructors for their guidance and support throughout the training program.
